@@ -1,0 +1,119 @@
+{
+    "$schema": "https://github.com/iebele/json-music",
+    "score": {
+        "title": "No title",
+        "subtitle": "",
+        "composer": """,
+        "date": "2015",
+        "constructors": {
+            "metrums": {
+                "0": {
+                    "id": 0,
+                    "meterUp": 3,
+                    "meterDown": 4,
+                    "measureCount": 1,
+                    "tempo": 38,
+                    "tempoName": "Grave"
+                }
+            },
+            "motifs": {
+                "0": {
+                    "metrum": "0",
+                    "elements": {
+                        "0": {
+                            "measure": 1,
+                            "value": "1/4",
+                            "midiPitch": 60,
+                            "frequency": 261.63,
+                            "downVelocity": 70,
+                            "upVelocity": null
+                        },
+                        "1": {
+                                "measure": 1,
+                                "value": "1/4",
+                                "midiPitch": 60,
+                                "frequency": 261.63,
+                                "downVelocity": 60,
+                                "upVelocity": null
+                        },
+                        "2": {
+                                "measure": 1,
+                                "value": "1/4",
+                                "midiPitch": 60,
+                                "frequency": 261.63,
+                                "downVelocity": 60,
+                                "upVelocity": null
+                        }
+                    }
+                }
+            }
+        },
+        "parts": {
+            "name": "Part 1",
+            "voices": {
+                "0": {
+                    "instrument": "piano",
+                    "clef": "G",
+                    "elements": {
+                        "0": {
+                            "measure": 1,
+                            "value": "1/4",
+                            "midiPitch": 60,
+                            "frequency": 261.63,
+                            "downVelocity": 70,
+                            "upVelocity": null
+                        },
+                        "1": {
+                            "measure": 1,
+                            "value": "1/4",
+                            "midiPitch": 60,
+                            "frequency": 261.63,
+                            "downVelocity": 70,
+                            "upVelocity": null
+                        },
+                        "2": {
+                            "measure": 1,
+                            "value": "1/4",
+                            "midiPitch": 60,
+                            "frequency": 261.63,
+                            "downVelocity": 70,
+                            "upVelocity": null
+                        }
+                    }
+                },
+                "1": {
+                    "instrument": "piano",
+                    "clef": "F",
+                    "elements": {
+                        "0": {
+                            "measure": 1,
+                            "value": "1/4",
+                            "midiPitch": 60,
+                            "frequency": 261.63,
+                            "downVelocity": 70,
+                            "upVelocity": null
+                        },
+                        "1": {
+                            "measure": 1,
+                            "value": "1/4",
+                            "midiPitch": 60,
+                            "frequency": 261.63,
+                            "downVelocity": 70,
+                            "upVelocity": null
+                        },
+                        "2": {
+                            "measure": 1,
+                            "value": "1/4",
+                            "midiPitch": 60,
+                            "frequency": 261.63,
+                            "downVelocity": 70,
+                            "upVelocity": null
+                        }
+                    }
+
+                }
+            }
+        }
+    }
+}
+                    
