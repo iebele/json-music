@@ -1,5 +1,5 @@
 {
-    "schema": "https://github.com/iebele/json-music",
+    "$schema": "https://github.com/iebele/json-music",
     "score": {
         "title": "No title",
         "subtitle": "",
